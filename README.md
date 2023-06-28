@@ -74,7 +74,7 @@ Cada uno de estos navegadores tiene disponibles las siguientes extensiones:
 ### TorBrowser
 En TorBrowser no se dispone de extensiones porque se prioriza el anonimato y privacidad, y el uso de estas hace que estas características peligren.
 
-## Aplicaciones
+## APLICACIONES
 ------------------------------------
 - Audacity 
 - Evince
@@ -141,19 +141,22 @@ Seguidamente la distribución cuenta con un total de X herramientas las cuales s
 - **Metagoofil** : Extracción Metadatos
 - **Torghost** :permite enrutar el tráfico de Internet a través de la red Tor de forma sencilla, brindando anonimato y privacidad al usuario al ocultar su dirección IP y ubicación geográfica.
 - **Extract Metadata** : Extracción Metadatos
-- **Exifdata**: Extracción Metadatos
-- **Tineye**
-- **Ultra surf**
-- **Browserling**
+- **Exifdata** : Extracción Metadatos
+- **Tineye** : búsqueda inversa de imágenes que permite encontrar imágenes similares o duplicadas en Internet al utilizar una imagen como consulta, lo que facilita la identificación de fuentes, derechos de autor y el rastreo de imágenes en línea.
+- **Ultra surf** : herramienta de privacidad y seguridad en línea que permite eludir la censura y acceder a contenido bloqueado al enmascarar la dirección IP y enrutar el tráfico a través de una red de servidores proxy, protegiendo la privacidad y facilitando el acceso a Internet sin restricciones.
+- **Browserling** : proporciona acceso instantáneo a navegadores web virtuales, permitiendo a los usuarios probar y visualizar sitios web en diferentes navegadores y sistemas operativos sin necesidad de instalarlos localmente.
+
+
+## DESCARGA 
+----------
 
 
 
-- 
 
 
-
-
-
+## DEMOSTRACIÓN
+------------
+Seguidamente se proporciona un link mostrando la funcionabilidad de las herramientas:
 
 
 
