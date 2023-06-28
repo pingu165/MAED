@@ -1,5 +1,7 @@
-### Hi there 👋
+### MaEd 
+![tfm](https://github.com/pingu165/pingu165/assets/127116706/bd99ce70-f71f-402c-8d06-fc941cb27a32)
 
+MaEd es una distribución personalizada de Kali Linux en VMware 17, utilizando Debian como base, con el fin de mejorar las habilidades OSINT. En ella encontraremos diferentes herramientas que nos servirán para la investigación de personas.
 <!--
 **pingu165/pingu165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
