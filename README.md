@@ -84,6 +84,7 @@ En TorBrowser no se dispone de extensiones porque se prioriza el anonimato y pri
 - Terminator
 - VCL
 - Xmind
+- Calculadora
 
 
 ![image](https://github.com/pingu165/pingu165/assets/127116706/427f0c3d-401c-45e1-810a-1a60585157fc) ![image](https://github.com/pingu165/pingu165/assets/127116706/139b93ae-ea0a-4216-acc1-aa8522e603d1) ![image](https://github.com/pingu165/pingu165/assets/127116706/9fb9c187-6494-45a6-8cb4-b690f7a7f447) ![image](https://github.com/pingu165/pingu165/assets/127116706/517b55cb-2971-492e-b8bb-81ac5cebac6a) ![image](https://github.com/pingu165/pingu165/assets/127116706/4382a955-84f8-488a-bdc9-e963550830d4) ![image](https://github.com/pingu165/pingu165/assets/127116706/5e62ce94-77b2-465b-b4ac-4402ff101cf4) ![image](https://github.com/pingu165/pingu165/assets/127116706/9b4f5f7d-7e6e-40ff-a3a0-4e3fbf955b68) ![image](https://github.com/pingu165/pingu165/assets/127116706/91afd132-0637-48b6-98ed-779d1ac7fb70)
