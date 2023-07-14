@@ -112,7 +112,6 @@ Seguidamente la distribución cuenta con un total de X herramientas las cuales s
 - **Epieos** :
 - **Sherlock** :Busca cuentas de redes sociales por nombre de usuario en diversas plataformas de redes sociales.
 - **OSRFramework(usufy,Aliasgenerator)** : ayuda en la recopilación de información en línea, generación de alias y análisis de perfiles de usuarios en redes sociales, contribuyendo a la inteligencia de fuentes abiertas y a la investigación en línea.
-- **Snoop** :herramienta de línea de comandos que permite la captura y análisis de paquetes de red para la resolución de problemas y la monitorización de tráfico en una red.
 - **OSRFramework(mailfy)** : facilita la recopilación de información relacionada con correos electrónicos, ayudando en investigaciones y análisis de inteligencia de fuentes abiertas.
 - **Karma** : permite realizar ataques de "honeypot" o "carnada" en redes inalámbricas, creando puntos de acceso falsos para detectar y analizar posibles amenazas o vulnerabilidades en el entorno de la red.
 - **Hunter.io** : Fugas de mails vinculados a una página web.
@@ -132,7 +131,6 @@ Seguidamente la distribución cuenta con un total de X herramientas las cuales s
 - **Unit 42** :  investiga y analiza las últimas tendencias, tácticas y técnicas utilizadas por los actores malintencionados en el panorama de la ciberseguridad.
 - **Mitreatt&ck** : describe y organiza tácticas y técnicas utilizadas por adversarios en ataques cibernéticos, proporcionando una base común para la comprensión y la respuesta efectiva a las amenazas.
 - **Virustotal** : analiza archivos y URLs en busca de posibles amenazas y malware, utilizando múltiples motores de antivirus y herramientas de detección para proporcionar información detallada sobre la seguridad de un archivo o sitio web.
-- **Dominios**
 - **Robtex** : proporciona información detallada sobre direcciones IP, nombres de dominio y redes, mostrando datos como geolocalización, servidores DNS, historial de dominio y otros detalles relevantes para el análisis de seguridad y redes.
 - **Cachedview** :permite ver la versión en caché de una página web capturada por motores de búsqueda, incluso si la página original ya no está disponible, lo que facilita acceder al contenido pasado y realizar investigaciones retrospectivas.
 - **Archive** : almacena y preserva copias de páginas web y otros recursos digitales, permitiendo acceder a versiones antiguas de sitios web y mantener un registro histórico de cambios y contenido en Internet.
@@ -146,7 +144,9 @@ Seguidamente la distribución cuenta con un total de X herramientas las cuales s
 - **Tineye** : búsqueda inversa de imágenes que permite encontrar imágenes similares o duplicadas en Internet al utilizar una imagen como consulta, lo que facilita la identificación de fuentes, derechos de autor y el rastreo de imágenes en línea.
 - **Ultra surf** : herramienta de privacidad y seguridad en línea que permite eludir la censura y acceder a contenido bloqueado al enmascarar la dirección IP y enrutar el tráfico a través de una red de servidores proxy, protegiendo la privacidad y facilitando el acceso a Internet sin restricciones.
 - **Browserling** : proporciona acceso instantáneo a navegadores web virtuales, permitiendo a los usuarios probar y visualizar sitios web en diferentes navegadores y sistemas operativos sin necesidad de instalarlos localmente.
-
+- **The_Spy_Job**
+- **GhostTrack**
+- 
 
 ## DESCARGA 
 ----------
