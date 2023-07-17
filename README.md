@@ -94,7 +94,8 @@ Seguidamente la distribución cuenta con un total de X herramientas las cuales s
 
 ## Herramientas 
 ---------------------
-![image](https://github.com/pingu165/MAED/assets/127116706/df3a1699-1efc-4e81-a28b-3cbc3da20708)
+![image](https://github.com/pingu165/MAED/assets/127116706/b8716cb5-13da-4ea4-a556-514e2387d466)
+
 
 - [**IP info**]([url](https://ipinfo.io/)) : IPinfo es una herramienta que proporciona información detallada sobre direcciones IP y dominios.
 - [**URL scan**]([url](https://urlscan.io/)) : herramienta que permite analizar y obtener información detallada sobre una URL específica.
