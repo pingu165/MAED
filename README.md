@@ -143,11 +143,26 @@ Seguidamente la distribución cuenta con un total de X herramientas las cuales s
 - [**Tineye**]([url](https://tineye.com/)) : búsqueda inversa de imágenes que permite encontrar imágenes similares o duplicadas en Internet al utilizar una imagen como consulta, lo que facilita la identificación de fuentes, derechos de autor y el rastreo de imágenes en línea.
 - [**Ultra surf**]([url](https://chrome.google.com/webstore/detail/ultrasurf-security-privac/mjnbclmflcpookeapghfhapeffmpodij?utm_source=ext_app_menu)) : herramienta de privacidad y seguridad en línea que permite eludir la censura y acceder a contenido bloqueado al enmascarar la dirección IP y enrutar el tráfico a través de una red de servidores proxy, protegiendo la privacidad y facilitando el acceso a Internet sin restricciones.
 - [**Browserling**]([url](https://www.browserling.com/)) : proporciona acceso instantáneo a navegadores web virtuales, permitiendo a los usuarios probar y visualizar sitios web en diferentes navegadores y sistemas operativos sin necesidad de instalarlos localmente.
-- [**The_Spy_Job**]([url](https://github.com/XDeadHackerX/The_spy_job))
-- [**GhostTrack**]([url](https://github.com/HunxByts/GhostTrack))
-- 
-
+- [**The_Spy_Job**]([url](https://github.com/XDeadHackerX/The_spy_job)):Es una Herramienta enfocada al OSINT la cual cuenta con los mejores métodos para recolectar Información sobre algo o alguien. Como todas las Herramientas creadas por XDeadHackerX una de las mejores cualidades es la automatización de todos los procesos.
+- [**GhostTrack**]([url](https://github.com/HunxByts/GhostTrack)):Herramienta útil para rastrear la ubicación o el número de teléfono móvil.
+- [**Whois**]([url](https://github.com/weppos/whois)):  herramienta que permite obtener información de registro whois de un dominio. cuentos como registro whois-root, registros whois, servidor whois. 
+- [**Instaloader**]([url](https://github.com/instaloader/instaloader)): Permite descargar perfiles públicos y privados de Instagram, historias, comentarios...
+- [**Maigret**]([url](https://github.com/soxoj/maigret)): recopila un expediente sobre una persona solo por nombre de usuario, verifica las cuentas en una gran cantidad de sitios y recopila toda la información disponible de las páginas web.
+- [**Holehe**]([url](https://github.com/megadose/holehe)): verifica si un correo electrónico está adjunto a una cuenta en sitios como twitter, instagram, imgur y más de 120 más.
+- [**Httpx Toolkit**]([url](https://www.kali.org/tools/httpx-toolkit/)): es un conjunto de herramientas HTTP rápido y multipropósito que permite ejecutar múltiples sondas utilizando la biblioteca http reintentable . Está diseñado para mantener la confiabilidad de los resultados con un mayor número de subprocesos.
+- [**Domainfy**]([url](https://github.com/i3visio/osrframework/blob/master/osrframework/domainfy.py)): Encuentra dominios que actualmente se resuelven usando una palabra o apodo dado. Entrada : liat de palabras. Salida : dominios que usan esa palabra que actualmente se resuelven.
+- [**Usufy**]([url](https://github.com/i3visio/osrframework/blob/master/osrframework/usufy.py)): Identifica perfiles de redes sociales usando un apodo dado. Entradas : lista de apodos. Salidas : perfiles conocidos en las redes sociales que usan esos apodos.
+- [**Mailfy**]([url](https://github.com/i3visio/osrframework/blob/master/osrframework/mailfy.py)): Encuentre más información sobre los correos electrónicos tomando como referencia ya sea un apodo (para generar una lista de posibles correos electrónicos) o la lista de correo electrónico. Entrada : lista de apodos o correos electrónicos. Salida : información encontrada sobre el correo electrónico.
+- [**Searchfy**]([url](https://github.com/i3visio/osrframework/projects/6)): Encuentra perfiles vinculados a un nombre completo. Entradas : lista de teléfonos. Salidas : Perfiles conocidos vinculados a la consulta.
+- [**Phonefy**]([url](https://github.com/i3visio/osrframework/blob/master/osrframework/phonefy.py)): Recupera información sobre teléfonos móviles vinculados a prácticas conocidas de spam. Entradas : lista de teléfonos. Salidas : Teléfonos vinculados a spam.
+Anonimizador (tor,torsocks,torghost): Herramientas para torificar/anonimizar las búsquedas deseadas.
+- [**Infoga**]([url](https://github.com/m4ll0k/Infoga)): Es una herramienta que recopila información de cuentas de correo electrónico (ip, nombre de host, país,...) de diferentes fuentes públicas (motores de búsqueda, servidores de claves pgp y shodan) y verifica si los correos electrónicos se filtraron utilizando la API de haveibeenpwned.com. 
+- [**Toutatis**]([url](https://github.com/megadose/toutatis)): es una herramienta que le permite extraer información de las cuentas de Instagram, como correos electrónicos, números de teléfono y más.
+- [**Mosint**]([url](https://github.com/alpkeskin/mosint)): es una herramienta OSINT más rápida para correos electrónicos. Le ayuda a recopilar información sobre el correo electrónico de destino.
+- [**Metagoofil**]([url](https://github.com/opsdisk/metagoofil)):  es una herramienta para extraer metadatos de documentos públicos (pdf, doc, xls, ppt, etc.) disponibles en los sitios web de destino.
 ## DESCARGA 
+
+
 ----------
 
 
