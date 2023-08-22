@@ -164,14 +164,24 @@ Anonimizador (tor,torsocks,torghost): Herramientas para torificar/anonimizar las
 
 
 ----------
+## BOT TELEGRAM
 
+A partir de este link se os abrirá un bot de telegram que os enseñará las diferentes cheatsheets de las herramientas 
+https://t.me/MaedOsintBot
 
-
+----------
 
 
 ## DEMOSTRACIÓN
 ------------
-Seguidamente se proporciona un link mostrando la funcionabilidad de las herramientas:
+Seguidamente pulsando la imagen se abre un link de YouTube mostrando la funcionalidad de las herramientas:
+
+
+[![Alt text](https://img.youtube.com/vi/RrdNp4pqv8w/0.jpg)](https://www.youtube.com/watch?v=RrdNp4pqv8w)
+
+
+
+
 
 
 
