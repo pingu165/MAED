@@ -162,7 +162,6 @@ Anonimizador (tor,torsocks,torghost): Herramientas para torificar/anonimizar las
 - [**Metagoofil**]([url](https://github.com/opsdisk/metagoofil)):  es una herramienta para extraer metadatos de documentos públicos (pdf, doc, xls, ppt, etc.) disponibles en los sitios web de destino.
 ## DESCARGA 
 
-
 ----------
 ## BOT TELEGRAM
 
